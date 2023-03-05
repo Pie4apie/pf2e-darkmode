@@ -1,0 +1,22 @@
+{
+    "name": "pf2e-darkmode",
+    "title": "Pathfinder 2e Darkmode",
+    "description": "A dark mode conversion of the Pathfinder 2e system",
+    "authors": [
+        {
+            "name": "Pie4apie"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "10.291",
+        "verified": "10.291",
+        "maximum": "10"
+      },
+    "scripts": [
+        "scripts/pf2e-darkmode.js"
+    ],
+    "styles": [
+        "styles/pf2e-darkmode.css"
+      ]
+}

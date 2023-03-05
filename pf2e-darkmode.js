@@ -1,0 +1,1 @@
+console.log('pf2e-darkmode | Dark Mode Activated!');
